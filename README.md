@@ -11,10 +11,10 @@ Mini AdaIN layer Only for one pair of images
 ## Results
 
 Content Image
-<img src="https://github.com/hectic97/AdaIN-tf2/raw/master/data/content.jpg">
+<img src="https://github.com/yjunej/AdaIN-tf2/raw/master/data/content.jpg">
 
 Style Image
-<img src="https://github.com/hectic97/AdaIN-tf2/raw/master/data/style.jpg">
+<img src="https://github.com/yjunej/AdaIN-tf2/raw/master/data/style.jpg">
 
 Stylized Image 
-<img src="https://github.com/hectic97/AdaIN-tf2/raw/master/result/result.gif">
+<img src="https://github.com/yjunej/AdaIN-tf2/raw/master/result/result.gif">
