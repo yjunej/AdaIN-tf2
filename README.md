@@ -8,6 +8,13 @@ Mini AdaIN layer Only for one pair of images
 
 ![image](https://user-images.githubusercontent.com/61140071/128589787-5ef50472-0c4d-4c56-9535-9a3048149c1b.png)
 
+## Experiment
+
+- Adam Optimizer (learning_rate=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-07)
+- MSE
+- half size random cropping
+- pretrained VGG19
+
 ## Results
 
 |Content|Style|Stylized Image
